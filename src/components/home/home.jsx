@@ -9,13 +9,13 @@ import Portada from '../../assets/portada.png'
 const Home = () => {
   return(
     <section>
-      <div id='title'>
+      <div id='title' className='home'>
         <h1>Claus y Jerry</h1>
         <h2>Nuestra Boda</h2>
         <div id='timer'>
           <Timer id='timers'/>
         </div>
-        <img src={Portada} alt="Imagen desde Local" />
+        <img className='home__img' src={Portada} alt="Imagen desde Local"/>
       </div>
     </section>
   )
