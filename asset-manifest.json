@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages-test/static/css/main.6dc76bb6.css",
-    "main.js": "/react-gh-pages-test/static/js/main.f0e65b14.js",
+    "main.css": "/react-gh-pages-test/static/css/main.48f922b4.css",
+    "main.js": "/react-gh-pages-test/static/js/main.0467fa98.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages-test/static/js/787.28cb0dcd.chunk.js",
     "static/media/portada.png": "/react-gh-pages-test/static/media/portada.f116207edf9efa7ca109.png",
+    "static/media/saloon.jpg": "/react-gh-pages-test/static/media/saloon.56d33518d5a10f0c0b80.jpg",
+    "static/media/ceremony.jpg": "/react-gh-pages-test/static/media/ceremony.a3c9fb2fbd957edfc8ad.jpg",
     "index.html": "/react-gh-pages-test/index.html",
-    "main.6dc76bb6.css.map": "/react-gh-pages-test/static/css/main.6dc76bb6.css.map",
-    "main.f0e65b14.js.map": "/react-gh-pages-test/static/js/main.f0e65b14.js.map",
+    "main.48f922b4.css.map": "/react-gh-pages-test/static/css/main.48f922b4.css.map",
+    "main.0467fa98.js.map": "/react-gh-pages-test/static/js/main.0467fa98.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-gh-pages-test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dc76bb6.css",
-    "static/js/main.f0e65b14.js"
+    "static/css/main.48f922b4.css",
+    "static/js/main.0467fa98.js"
   ]
 }
