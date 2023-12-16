@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-gh-pages-test/static/css/main.6a5da0c8.css",
+    "main.css": "/react-gh-pages-test/static/css/main.ac0860c5.css",
     "main.js": "/react-gh-pages-test/static/js/main.1bdf2a84.js",
     "static/js/787.016dd43c.chunk.js": "/react-gh-pages-test/static/js/787.016dd43c.chunk.js",
     "static/media/1.png": "/react-gh-pages-test/static/media/1.f116207edf9efa7ca109.png",
@@ -12,12 +12,12 @@
     "static/media/recepcion.jpg": "/react-gh-pages-test/static/media/recepcion.f5ef5f232d8d990e368f.jpg",
     "static/media/portada.png": "/react-gh-pages-test/static/media/portada.87436e3f53b7e4781a69.png",
     "index.html": "/react-gh-pages-test/index.html",
-    "main.6a5da0c8.css.map": "/react-gh-pages-test/static/css/main.6a5da0c8.css.map",
+    "main.ac0860c5.css.map": "/react-gh-pages-test/static/css/main.ac0860c5.css.map",
     "main.1bdf2a84.js.map": "/react-gh-pages-test/static/js/main.1bdf2a84.js.map",
     "787.016dd43c.chunk.js.map": "/react-gh-pages-test/static/js/787.016dd43c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a5da0c8.css",
+    "static/css/main.ac0860c5.css",
     "static/js/main.1bdf2a84.js"
   ]
 }
