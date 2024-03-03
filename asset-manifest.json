@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages-test/static/css/main.ac0860c5.css",
-    "main.js": "/react-gh-pages-test/static/js/main.1bdf2a84.js",
-    "static/js/787.016dd43c.chunk.js": "/react-gh-pages-test/static/js/787.016dd43c.chunk.js",
-    "static/media/1.png": "/react-gh-pages-test/static/media/1.f116207edf9efa7ca109.png",
+    "main.css": "/react-gh-pages-test/static/css/main.379634c8.css",
+    "main.js": "/react-gh-pages-test/static/js/main.1184c765.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages-test/static/js/787.28cb0dcd.chunk.js",
+    "static/media/c.png": "/react-gh-pages-test/static/media/c.e3539bbd225898304806.png",
+    "static/media/ceremony.png": "/react-gh-pages-test/static/media/ceremony.86da2fe878f03696aadf.png",
+    "static/media/a.png": "/react-gh-pages-test/static/media/a.300fbc20c3bcd1675af3.png",
+    "static/media/b.png": "/react-gh-pages-test/static/media/b.d25967ef41e0911ea067.png",
+    "static/media/saloon.png": "/react-gh-pages-test/static/media/saloon.33727d4e88bfdf7d537e.png",
     "static/media/background.png": "/react-gh-pages-test/static/media/background.f682d205d6e72795a239.png",
-    "static/media/itinerario.jpg": "/react-gh-pages-test/static/media/itinerario.3902878a021df83c7cb8.jpg",
-    "static/media/ceremonia.jpg": "/react-gh-pages-test/static/media/ceremonia.0abf787fe483b153f8e6.jpg",
-    "static/media/padrinos.jpg": "/react-gh-pages-test/static/media/padrinos.75079998e7e6f687f9f1.jpg",
-    "static/media/regalos.jpg": "/react-gh-pages-test/static/media/regalos.b49a54e5e46c45b3bed7.jpg",
-    "static/media/recepcion.jpg": "/react-gh-pages-test/static/media/recepcion.f5ef5f232d8d990e368f.jpg",
-    "static/media/portada.png": "/react-gh-pages-test/static/media/portada.87436e3f53b7e4781a69.png",
+    "static/media/portada.png": "/react-gh-pages-test/static/media/portada.2589714d4119543a95ed.png",
     "index.html": "/react-gh-pages-test/index.html",
-    "main.ac0860c5.css.map": "/react-gh-pages-test/static/css/main.ac0860c5.css.map",
-    "main.1bdf2a84.js.map": "/react-gh-pages-test/static/js/main.1bdf2a84.js.map",
-    "787.016dd43c.chunk.js.map": "/react-gh-pages-test/static/js/787.016dd43c.chunk.js.map"
+    "main.379634c8.css.map": "/react-gh-pages-test/static/css/main.379634c8.css.map",
+    "main.1184c765.js.map": "/react-gh-pages-test/static/js/main.1184c765.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-gh-pages-test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac0860c5.css",
-    "static/js/main.1bdf2a84.js"
+    "static/css/main.379634c8.css",
+    "static/js/main.1184c765.js"
   ]
 }
