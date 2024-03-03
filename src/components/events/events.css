@@ -10,7 +10,8 @@
 .button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #3498db;
+    width: 80%;
+    background-color: #a1a1a1;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -22,7 +23,7 @@
   
   /* Cambiar el color de fondo al pasar el mouse por encima */
   .button:hover {
-    background-color: #2980b9;
+    background-color: #D67EA2;
   }
   
   /* Agregar un efecto de sombra */
