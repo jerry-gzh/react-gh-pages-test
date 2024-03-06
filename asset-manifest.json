@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/react-gh-pages-test/static/css/main.379634c8.css",
-    "main.js": "/react-gh-pages-test/static/js/main.a88ba458.js",
+    "main.js": "/react-gh-pages-test/static/js/main.623caedf.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages-test/static/js/787.28cb0dcd.chunk.js",
-    "static/media/c.png": "/react-gh-pages-test/static/media/c.a88350189bd77ebbf7ee.png",
-    "static/media/d.png": "/react-gh-pages-test/static/media/d.e3539bbd225898304806.png",
-    "static/media/ceremony.png": "/react-gh-pages-test/static/media/ceremony.86da2fe878f03696aadf.png",
-    "static/media/b.png": "/react-gh-pages-test/static/media/b.2111a4b2e461c4ca7738.png",
-    "static/media/a.png": "/react-gh-pages-test/static/media/a.300fbc20c3bcd1675af3.png",
-    "static/media/saloon.png": "/react-gh-pages-test/static/media/saloon.33727d4e88bfdf7d537e.png",
+    "static/media/d.png": "/react-gh-pages-test/static/media/d.f5d313f2a61754cba01f.png",
+    "static/media/e.png": "/react-gh-pages-test/static/media/e.be3e3317307bbfadf74c.png",
+    "static/media/a.png": "/react-gh-pages-test/static/media/a.36cb5e4c04a3082dbc7f.png",
+    "static/media/f.png": "/react-gh-pages-test/static/media/f.8a60b29fc5800bebfcb8.png",
+    "static/media/b.png": "/react-gh-pages-test/static/media/b.66351151347170d64055.png",
+    "static/media/g.png": "/react-gh-pages-test/static/media/g.d2ee041e581e368b6b5b.png",
+    "static/media/c.png": "/react-gh-pages-test/static/media/c.dad7ebf0ca979bfa2ff6.png",
     "static/media/background.png": "/react-gh-pages-test/static/media/background.f682d205d6e72795a239.png",
     "static/media/portada.png": "/react-gh-pages-test/static/media/portada.2589714d4119543a95ed.png",
     "index.html": "/react-gh-pages-test/index.html",
     "main.379634c8.css.map": "/react-gh-pages-test/static/css/main.379634c8.css.map",
-    "main.a88ba458.js.map": "/react-gh-pages-test/static/js/main.a88ba458.js.map",
+    "main.623caedf.js.map": "/react-gh-pages-test/static/js/main.623caedf.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-gh-pages-test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.379634c8.css",
-    "static/js/main.a88ba458.js"
+    "static/js/main.623caedf.js"
   ]
 }
