@@ -1,37 +1,46 @@
 import React from "react";
 import "./events.css";
-import ceremonyImg from "../../assets/ceremony.png";
-import saloonImg from "../../assets/saloon.png";
 import a from "../../assets/a.png";
 import b from "../../assets/b.png";
 import c from "../../assets/c.png";
+import d from "../../assets/d.png";
+import e from "../../assets/e.png";
+import f from "../../assets/f.png";
+import g from "../../assets/g.png";
 
 const eventData = [
   {
     id: 0,
     name: "Ceremonia",
     link: "https://maps.app.goo.gl/osdyWgPwLLTTL3Xn8",
-    img: ceremonyImg,
+    img: a,
   },
   {
     id: 1,
-    img: a,
+    img: b,
   },
   {
     id: 2,
     name: "Recepción",
     link: "https://maps.app.goo.gl/rQF7syLjTfhDkEi4A",
-    img: saloonImg,
+    img: c,
   },
   {
     id: 3,
-    img: b,
+    img: d,
   },
   {
     id: 4,
-    img: c,
+    img: e,
   },
-
+  {
+    id: 5,
+    img: f,
+  },
+  {
+    id: 6,
+    img: g,
+  },
 ];
 
 const Events = () => {
