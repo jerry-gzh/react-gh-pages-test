@@ -49,18 +49,22 @@ const Events = () => {
     window.open(link, "_blank");
   };
 
+  const openAlbum = (link_p) => {
+    window.open(link_p, "_blank");
+  };
+
   return (
     <section>
       {eventData.map(({ id, name, link, img, link_p }) => (
         <div className="cardEvent" key={id}>
-          {img && <img className="event_img" src={img} alt={name} />}
+          {img && <img className="event_img" src={img} alt={name || "Evento"} />}
           {link && (
             <button className="button" onClick={() => openExternalMap(link)}>
               Ver Mapa
             </button>
           )}
           {link_p && (
-            <button className="button" onClick={() => openExternalMap(link)}>
+            <button className="button" onClick={() => openAlbum(link_p)}>
               Agregar fotos
             </button>
           )}
