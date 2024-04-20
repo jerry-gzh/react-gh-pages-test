@@ -39,6 +39,7 @@ const eventData = [
   },
   {
     id: 6,
+    link_p: "https://photos.app.goo.gl/jqzbhbMbSdavqgwH9",
     img: g,
   },
 ];
@@ -50,12 +51,17 @@ const Events = () => {
 
   return (
     <section>
-      {eventData.map(({ id, name, link, img }) => (
+      {eventData.map(({ id, name, link, img, link_p }) => (
         <div className="cardEvent" key={id}>
           {img && <img className="event_img" src={img} alt={name} />}
           {link && (
             <button className="button" onClick={() => openExternalMap(link)}>
               Ver Mapa
+            </button>
+          )}
+          {link_p && (
+            <button className="button" onClick={() => openExternalMap(link)}>
+              Agregar fotos
             </button>
           )}
         </div>
